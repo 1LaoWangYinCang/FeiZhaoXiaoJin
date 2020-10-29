@@ -1,13 +1,15 @@
-# Red-envelope-diary
-Nowadays, a lot of human exchanges in life are expressed through giving red envelopes. Our app can help people record these red envelope exchanges and maintain their social relations.
+# JieBiFenZhuanJia
 
-Our app is an app to record the exchange of red envelopes. We record the scene and mood of the exchange of red envelopes in the form of diary. Let's remember every blessing from our friends and family. Our app can help you record the amount and amount of the red envelope, so as to facilitate your daily life and maintain your social relations.
+JieBiFenZhuanJia are committed to promoting gymnastic equipment, so that people can efficiently buy professional gymnastic equipment in their daily lives, and at the same time, they can record the gymnastics competition, the score of on-site competitions, and the joy of victory.
 
-Our app also has a detailed classification of these types of red envelopes. When you receive the red envelopes, find the corresponding types of red envelopes, and enter the blessing in for easy viewing.
+Our app displays a full range of gymnastic equipment, including floor exercise equipment, gymnastic training shoes, gymnastic training equipment, gymnastic training clothes and other gymnastic equipment. These categories of complete gymnastic equipment can meet the user's selection and procurement.
 
-Our app can also record our own gifts, blessings to others, and clearly record our feelings and feelings at that time. Every sincere blessing can be recorded on our app.
+[Classification] Our app has made a very detailed classification of these gymnastics equipment, which helps users to quickly find the gymnastics equipment they want to buy.
 
-Our app can also mark important red envelopes, which is convenient for you to check the return gift, and keep the important marks in your heart.
+[Details] Our APP introduces each product in detail, so that you can fully understand these products, find your favorite gymnastics equipment, and make it easy for you to purchase and place an order.
 
-Red envelope diary carefully records the life of the red envelope and human exchanges.
-If you have any questions, please contact us at: haj19841101@icloud.com
+[Score] Our app has a live score recording function. You can record the scores and details of the live matches, record every gymnastics match you like, and share the match results, record and share the joy of victory.
+
+Record the score Buy gymnastics equipment you deserve!
+
+If you have any questions, please contact us at: liuh19790707@icloud.com
